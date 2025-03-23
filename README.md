@@ -7,7 +7,7 @@ The **Interactive Sales & Customer Metrics Dashboard** provides a **comprehensiv
 
 ## **2️⃣ Data Sources & Preparation**  
 - **Data Sources**:  
-  - Sales transaction records (Product, Region, Sales Amount, Profit, Date)  
+  - Sales transaction records (Product, Region, Sales Amount, Profit, Date, Target Sales)  
   - Customer data (Customer ID, Age, Purchase Frequency, Retention Status)  
 - **Data Cleaning & Processing**:  
   - Used **Power Query** to clean, transform, and load data automatically  
