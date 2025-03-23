@@ -1,10 +1,6 @@
-# Interactive-Sales-Customer-Metrics-Dashboard-Report
 
-Here’s a **detailed description** of an **Interactive Sales & Customer Metrics Dashboard** report in Excel. This explanation covers the report's structure, key metrics, interactive features, and insights.  
 
----
-
-# **📊 Interactive Sales & Customer Metrics Dashboard Report**  
+# **📊 Sales Profit & Customer Metrics Dashboard Report**  
 
 ## **1️⃣ Report Overview**  
 The **Interactive Sales & Customer Metrics Dashboard** provides a **comprehensive analysis** of sales performance and customer behavior. It consolidates data into a single, dynamic report that enables users to track key business metrics, identify trends, and make data-driven decisions.  
