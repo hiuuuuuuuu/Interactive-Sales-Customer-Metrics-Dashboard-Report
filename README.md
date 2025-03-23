@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/e8a03566-d992-43d3-baf2-799711643e9b)
 
 # **📊 Sales Profit & Customer Metrics Dashboard Report**  
 
@@ -7,8 +7,8 @@ The **Interactive Sales & Customer Metrics Dashboard** provides a **comprehensiv
 
 ## **2️⃣ Data Sources & Preparation**  
 - **Data Sources**:  
-  - Sales transaction records (Product, Region, Sales Amount, Profit, Date, Target Sales)  
-  - Customer data (Customer ID, Age, Purchase Frequency, Retention Status)  
+  - Sales Profit & Customer records (Date	Region	Sales	Profit	Target Sales	No of Customers	Sales Completion Rate	Profit Completion Rate	Customer Completion Rate	Country	Customer Satisfaction	Score)  
+
 - **Data Cleaning & Processing**:  
   - Used **Power Query** to clean, transform, and load data automatically  
   - Removed duplicates and handled missing values  
