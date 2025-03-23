@@ -8,8 +8,9 @@ The **Interactive Sales & Customer Metrics Dashboard** provides a **comprehensiv
 - **Data Sources**:  
   - Sales Profit & Customer records (Date,Region,	Sales	Profit,	Target Sales,	No of Customers,	Sales Completion Rate,	Profit Completion Rate,	Customer Completion Rate,	Country,	Customer Satisfaction,	Score)  
 
-- **Data Cleaning & Processing**:  
-  - Removed duplicates and handled missing values  
+- **Data Cleaning & Processing**:
+  - Used Power Query to clean, transform, and load data automatically
+  - Removed duplicates and handled missing values
   - Created **calculated fields** (Month, Quarter)  
 
 ---
