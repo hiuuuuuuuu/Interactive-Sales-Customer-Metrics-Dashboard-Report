@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/e8a03566-d992-43d3-baf2-799711643e9b)
 
 # **📊 Sales Profit & Customer Metrics Dashboard Report**  
 
