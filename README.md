@@ -1,10 +1,10 @@
 
 # **📊 Sales Profit & Customer Metrics Dashboard Report**  
 
-## **1️⃣ Report Overview**  
+## **1️. Report Overview**  
 The **Interactive Sales & Customer Metrics Dashboard** provides a **comprehensive analysis** of sales performance and customer behavior. It consolidates data into a single, dynamic report that enables users to track key business metrics, identify trends, and make data-driven decisions.  
 
-## **2️⃣ Data Sources & Preparation**  
+## **2️. Data Sources & Preparation**  
 - **Data Sources**:  
   - Sales Profit & Customer records (Date,Region,	Sales	Profit,	Target Sales,	No of Customers,	Sales Completion Rate,	Profit Completion Rate,	Customer Completion Rate,	Country,	Customer Satisfaction,	Score)  
 
@@ -15,7 +15,7 @@ The **Interactive Sales & Customer Metrics Dashboard** provides a **comprehensiv
 
 ---
 
-## **3️⃣ Dashboard Components & Visuals**  
+## **3️. Dashboard Components & Visuals**  
 
 ### **🔹 Key Performance Indicators (KPIs) – Summary Section**  
 📌 Located at the top of the dashboard, the KPI section provides a quick overview of business performance:  
@@ -51,7 +51,7 @@ The **Interactive Sales & Customer Metrics Dashboard** provides a **comprehensiv
 
 ---
 
-## **4️⃣ Business Insights & Impact**  
+## **4️. Business Insights & Impact**  
 ✅ Identified **seasonal patterns**, leading to a 12% increase in campaign efficiency.  
 ✅ Discovered that **loyal customers generated 65% of total revenue**, influencing marketing retention strategies.  
 ✅ Reduced **manual reporting time by 40%** through Power Query automation.  
