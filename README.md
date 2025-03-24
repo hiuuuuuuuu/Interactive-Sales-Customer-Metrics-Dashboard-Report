@@ -21,11 +21,10 @@ The **Interactive Sales & Customer Metrics Dashboard** provides a **comprehensiv
 📌 Located at the top of the dashboard, the KPI section provides a quick overview of business performance:  
 ✔ **Total Sales Revenue** – Sum of all sales transactions  
 ✔ **Total Profit** – Revenue minus costs, displayed as a percentage margin  
-✔ **Customer Retention Rate** – Percentage of returning customers  
-✔ **Average Order Value (AOV)** – Revenue divided by the number of orders  
-✔ **Sales Growth Rate** – Month-over-month comparison of sales performance  
+✔ **Customer Count** – Percentage of Customer complete  
+✔ **Sales Target** – Month-over-month comparison of sales target performance  
 
-### **🔹 Sales Trends Over Time – Line Chart**  
+### **🔹 Customer Count by Month – Line Chart**  
 📌 A time-series **line chart** displays monthly or quarterly **sales trends**, helping identify seasonal fluctuations and growth patterns.  
 ✔ Users can **filter by year, region, or product category** using slicers.  
 ✔ A **trendline** is included to visualize growth patterns.  
@@ -41,17 +40,21 @@ The **Interactive Sales & Customer Metrics Dashboard** provides a **comprehensiv
 ✔ **Churn risk customers** – Long inactivity periods, requiring re-engagement  
 ✔ **New customers** – First-time buyers, potential for retention strategies  
 
-### **🔹 Sales by Region – Interactive Map (Optional)**  
+### **🔹 Sales by Country – Interactive Map (Optional)**  
 📌 A **geographic heatmap** displays sales distribution across different regions.  
 ✔ Users can **hover over locations** to see total revenue, order count, and profit margin.  
 
 ### **🔹 Dynamic Filters – Slicers & Timelines**  
-📌 **Slicers** allow users to filter data by **Year, Region, Product Category, Customer Segment**.  
+📌 **Slicers** allow users to filter data by **Quarter, MONTH**.  
 📌 **Timelines** enable users to adjust the **date range** dynamically.  
 
 ---
 
 ## **4️. Business Insights & Impact**  
+
+![image](https://github.com/user-attachments/assets/af8674b7-7906-468a-ab33-a5a62e50f5de)
+
+
 ✅ Identified **seasonal patterns**, leading to a 12% increase in campaign efficiency.  
 ✅ Discovered that **loyal customers generated 65% of total revenue**, influencing marketing retention strategies.  
 ✅ Reduced **manual reporting time by 40%** through Power Query automation.  
