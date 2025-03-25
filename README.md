@@ -24,21 +24,20 @@ The **Interactive Sales & Customer Metrics Dashboard** provides a **comprehensiv
 **Customer Count** – Percentage of Customer complete  
 **Sales Target** – Month-over-month comparison of sales target performance  
 
-** Customer Count by Month – Line Chart**  
+- Customer Count by Month – Line Chart
  
 
-** Sales & Target Sales By Month – Clustered Column Chart**  
+- Sales & Target Sales By Month – Clustered Column Chart
 
-** Customer Satisfaction Score – Funnel Chart**  
+- Customer Satisfaction Score – Funnel Chart
 
-** Profit & Sales by Region – Bar Chart**  
-
-
+- Profit & Sales by Region – Bar Chart 
 
 
-### ** Sales by Country – Interactive Map (Optional)**  
 
-### ** Dynamic Filters – Slicers & Timelines**  
+ ** Sales by Country – Interactive Map (Optional)**  
+
+### ** Dynamic Filters – Slicers**  
  **Slicers** allow users to filter data by **Quarter, MONTH**.  
 
 ---
