@@ -35,7 +35,7 @@ The **Interactive Sales & Customer Metrics Dashboard** provides a **comprehensiv
 
 
 
- ** Sales by Country – Interactive Map (Optional)**  
+- Sales by Country – Interactive Map (Optional)
 
 ### ** Dynamic Filters – Slicers**  
  **Slicers** allow users to filter data by **Quarter, MONTH**.  
