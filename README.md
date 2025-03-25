@@ -52,7 +52,7 @@ The **Interactive Sales & Customer Metrics Dashboard** provides a **comprehensiv
 
 ## **4️. Business Insights & Impact**  
 
-![image](https://github.com/user-attachments/assets/af8674b7-7906-468a-ab33-a5a62e50f5de)
+![image](https://github.com/user-attachments/assets/490539b7-2bcc-48cc-aefa-522b564a6a6a)
 
 
 ✅ Identified **seasonal patterns**, leading to a 12% increase in campaign efficiency.  
